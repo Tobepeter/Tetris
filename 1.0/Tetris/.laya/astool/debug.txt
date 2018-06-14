@@ -1,0 +1,19 @@
+1,0.00,,0,Project command:c:\Users\58359\Desktop\Tetris(1)\Tetris/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:c:\Users\58359\Desktop\Tetris(1)\Tetris/.actionScriptProperties.
+1,0.00,,0,output path:c:/Users/58359/Desktop/Tetris(1)/Tetris/bin/h5/
+1,0.00,,0,Main Class:c:/Users/58359/Desktop/Tetris(1)/Tetris/src/Main.as
+1,0.00,,0,output file:Main
+1,0.00,,0,compilerSourcePath c:/Users/58359/Desktop/Tetris(1)/Tetris/libs/laya/src/
+
+1,0.00,,0,Compile Path:c:/Users/58359/Desktop/Tetris(1)/Tetris/src/
+
+1,0.00,,0,Compile Path:c:/Users/58359/Desktop/Tetris(1)/Tetris/libs/laya/src/
+
+1,0.00,c:/Users/58359/Desktop/Tetris(1)/Tetris/src,0,Collect
+1,0.00,c:/Users/58359/Desktop/Tetris(1)/Tetris/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.68,,0,Disable Flash3D c:/Users/58359/Desktop/Tetris(1)/Tetris/src/Main.as
+12,89.68,c:/Users/58359/Desktop/Tetris(1)/Tetris/bin/h5/Main.max.js,522433,
+11,89.68,c:/Users/58359/Desktop/Tetris(1)/Tetris/bin/h5/Main.max.html,887,
+******************************************************************************
+14,89.68,,0,
